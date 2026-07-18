@@ -1,0 +1,1 @@
+# polybar-single-file-config
